@@ -1,6 +1,6 @@
 # React + Vite
 
-<span style="color: green;">English guessing game</span>
+<span style="color: green">English guessing game</span>
 
 vercal link- english-words-mini-game-fk5m93p0l-enoshbrainards-projects.vercel.app
 
